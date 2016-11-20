@@ -6,6 +6,9 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
+import org.springframework.stereotype.Component;
+
+@Component
 @Entity
 public class Product {
 
@@ -15,7 +18,10 @@ public class Product {
 	private String name;
 	@ManyToOne
 	@JoinColumn(name="categoryId")
-	private Category category = new Category();
+	private Category category;
+	
+	
+	
 	public Long getProductId() {
 		return productId;
 	}

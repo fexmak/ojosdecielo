@@ -1,0 +1,14 @@
+com\fexmak\ojosdecielo\bo\Category.class
+com\fexmak\ojosdecielo\DAO\CategoryDAO.class
+com\fexmak\ojosdecielo\services\ProductServiceImpl.class
+com\fexmak\ojosdecielo\DAO\CategoryDAOImpl.class
+com\fexmak\ojosdecielo\services\CategoryServiceImpl.class
+com\fexmak\ojosdecielo\DAO\ProductDAO.class
+com\fexmak\ojosdecielo\DAO\ProductDAOImpl.class
+com\fexmak\ojosdecielo\bo\Product.class
+com\fexmak\ojosdecielo\DAO\GenericDAO.class
+com\fexmak\ojosdecielo\services\ProductService.class
+com\fexmak\ojosdecielo\controllers\CategoryController.class
+com\fexmak\ojosdecielo\controllers\ProductController.class
+com\fexmak\ojosdecielo\DAO\GenericDAOImp.class
+com\fexmak\ojosdecielo\services\CategoryService.class
